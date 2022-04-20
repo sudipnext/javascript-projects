@@ -1,1 +1,1 @@
-# javascript-projects
+# Praticing Javascript
